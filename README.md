@@ -1,4 +1,4 @@
-متد:\n
+متد:/n
 create_channel_voice_chat\n
 نتیجه : Input Error\n
 کد استفاده شده:\n
