@@ -1,7 +1,7 @@
-# متد:
+متد:
 create_channel_voice_chat
-## نتیجه : Input Error
-## کد استفاده شده:
+نتیجه : Input Error
+کد استفاده شده:
 ```python
 from rubpy import Client
 import asyncio
