@@ -1,4 +1,4 @@
-# تست متد create_channel_voice_chat
+# متد create_channel_voice_chat
 ## نتیجه : Input Error
 ## کد استفاده شده:
 ```python
